@@ -1,0 +1,4 @@
+#Sun May 30 02:06:16 WITA 2021
+base.0=/Users/fakultasteknik/Documents/mobile/pddmobile/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
